@@ -4,7 +4,7 @@ A Biomedical Technician skilled in diagnosing, calibrating, and maintaining medi
 
 Skills: Matlab/C/C#/SQL
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
